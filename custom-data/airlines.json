@@ -1668,5 +1668,11 @@
     "name": "Axiom",
     "callsign": "AXIOM",
     "virtual": true
+  },
+  {
+    "icao": "SAE",
+    "name": "StarEuropa",
+    "callsign": "StarEuropa",
+    "virtual": true
   }
 ]
